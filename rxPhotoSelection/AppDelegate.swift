@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  rxPhotoFiltere
+//  rxPhotoSelection
 //
 //  Created by Jad Messadi on 11/10/20.
 //
